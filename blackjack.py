@@ -123,6 +123,7 @@ def shuffle():
 
 def test():
     print("Hello, I am in the place!")
+    print("Bye Bye, I am leaving now!!")
 
 mainWindow = tkinter.Tk()
 
